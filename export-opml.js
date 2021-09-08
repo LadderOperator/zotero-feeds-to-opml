@@ -1,1 +1,0 @@
-var FeedsList = Zotero.Feeds.getAll() // Not mentioned in Zotero JavaScript API docs, but you can find it in source code :)
